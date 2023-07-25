@@ -2,6 +2,8 @@
 
 ![image1](/Pictures/IMG_20230724_183946.jpg)
 
+Video: https://youtu.be/ISC5q4k9wDg
+
 # How it works
 Feather receives messages from Can Bus and picks rpm signal for shift light. Feather sends same can bus data bytes over Uart to Raspberry pi. 
 Feather reads amount of ambient light from photodiode and controls screeen broghtness with pwm. 
