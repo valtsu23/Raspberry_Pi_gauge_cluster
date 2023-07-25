@@ -58,6 +58,7 @@ Everyting is bought from: www.partco.fi
 - 2x13 female smd pin header (soldered to display pcb)
 - 1x40 female pin header
 - 1x40 male pin header
-- 5pin JST-SM connector pair
 - 0,22mm2 - 0,5mm2 wires (0,5mm2 recommended for power and ground)
-  
+
+### From Ebay
+- 5pin JST-SM connector pair
