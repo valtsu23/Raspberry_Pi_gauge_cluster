@@ -24,3 +24,10 @@
   - turn signals
   - high beam
   - fuel level
+
+Part list for PCB:
+- 3A diode 
+- 1A diode 2pcs
+- Adafruit DS3231 Precision RTC - STEMMA QT
+- FTR-F3AA005V (small 5V relay)
+- 
