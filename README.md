@@ -1,6 +1,6 @@
 # Raspberry_pi_gauge_cluster
 
-![image1](/pictures/IMG_20230724_183946.jpg)
+![image1](/Pictures/IMG_20230724_183946.jpg)
 
 # How it works
 Feather receives messages from Can Bus and picks rpm signal for shift light. Feather sends same can bus data bytes over Uart to Raspberry pi. 
@@ -44,7 +44,7 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
 ### Case
 - filament is PETG
 
-![image1](/pictures/Raspi_Feather.png)
+![image1](/Pictures/Raspi_Feather.png)
 
 ### Part list for PCB:
 Everyting is bought from: www.partco.fi
