@@ -9,6 +9,7 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
 
 # Something to improve
 - Shortening the start up time (about 25 seconds now)
+- More pictures are coming
 - Case needs better desing and I'll publish .stl and Freecad files after that
 
 ### Technical specs:
