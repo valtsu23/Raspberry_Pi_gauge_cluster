@@ -30,4 +30,7 @@ Part list for PCB:
 - 1A diode 2pcs
 - Adafruit DS3231 Precision RTC - STEMMA QT
 - FTR-F3AA005V (small 5V relay)
-- 
+- BPW42 3mm phototransistor or similar
+- 2N3904 NPN transistor or similar
+- 2k2 0,6w resistor
+- 150k 0,6w resistor 
