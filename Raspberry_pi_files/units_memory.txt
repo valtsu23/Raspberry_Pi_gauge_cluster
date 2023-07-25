@@ -1,0 +1,6 @@
+Ign angle  °btdc
+Dbw position  %
+Lambda corr.  %
+TPS                 %
+Boost target  kPa
+Battery  voltage
