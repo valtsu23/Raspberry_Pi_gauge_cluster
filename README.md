@@ -39,6 +39,9 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
   - fuel level
   - ambient temperature
 
+### Case
+- filament is PETG
+
 ### Part list for PCB:
 Everyting is bought from: www.partco.fi
 - PCH2596S DC-DC converter (LM2596S)
@@ -55,4 +58,6 @@ Everyting is bought from: www.partco.fi
 - 2x13 female smd pin header (soldered to display pcb)
 - 1x40 female pin header
 - 1x40 male pin header
+- 5pin JST-SM connector pair
+- 0,22mm2 - 0,5mm2 wires (0,5mm2 recommended for power and ground)
   
