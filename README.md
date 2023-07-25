@@ -10,6 +10,8 @@ Feather reads amount of ambient light from photodiode and controls screeen brogh
 Device needs switched 12V and continous 12v from battery to work correctly. Switched power wakes up the device and Raspberry pi starts booting. When Can Bus stream is lost Raspberry pi automatically starts shutdown process and sends message to Feather. After specified time Feather turns off the relay connected to continous 12v and cuts power from the device. The device doesn't consume any power after shutdown. 
 
 # Something to improve
+- More testing needed
+- Adding Raspberry pi setup guide
 - Shortening the start up time (about 25 seconds now)
 - More pictures
 - Case needs better desing and I'll publish .stl and Freecad files after that
