@@ -9,7 +9,7 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
 
 # Something to improve
 - Shortening the start up time (about 25 seconds now)
-- Case needs better desing
+- Case needs better desing and I'll publish .stl and Freecad files after that
 
 ### Technical specs:
 - Raspberry Pi 4 Model B 4GB
@@ -41,7 +41,7 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
   - fuel level
   - ambient temperature
 
-### Case
+### Case (files are not ready to publish)
 - filament is PETG
 
 ![image1](/Pictures/Raspi_Feather.png)
