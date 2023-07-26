@@ -52,24 +52,24 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
 ![image1](/Pictures/Raspi_Feather.png)
 
 ### Part list for PCB:
-  #### From www.partco.fi
-    - PCH2596S DC-DC converter (LM2596S)
-    - 3A diode 
-    - 1A diode 2pcs
-    - FTR-F3AA005V (small 5V relay)
-    - BPW42 3mm phototransistor or similar
-    - 2N3904 NPN transistor or similar
-    - B3F-31XX Omron switch or SKH KKK 2 from partco.fi
-    - 2k2 0,6w resistor
-    - 150k 0,6w resistor 
-    - 2x13 male pin header with long pins (20mm total length)
-    - 2x13 female smd pin header (soldered to display pcb)
-    - 1x40 female pin header
-    - 1x40 male pin header
-    - 0,22mm2 - 0,5mm2 wires (0,5mm2 recommended for power and ground)
+#### From www.partco.fi
+  - PCH2596S DC-DC converter (LM2596S)
+  - 3A diode 
+  - 1A diode 2pcs
+  - FTR-F3AA005V (small 5V relay)
+  - BPW42 3mm phototransistor or similar
+  - 2N3904 NPN transistor or similar
+  - B3F-31XX Omron switch or SKH KKK 2 from partco.fi
+  - 2k2 0,6w resistor
+  - 150k 0,6w resistor 
+  - 2x13 male pin header with long pins (20mm total length)
+  - 2x13 female smd pin header (soldered to display pcb)
+  - 1x40 female pin header
+  - 1x40 male pin header
+  - 0,22mm2 - 0,5mm2 wires (0,5mm2 recommended for power and ground)
 #### From Adafruit
-    - Adafruit DS3231 Precision RTC - STEMMA QT
-    - Adafruit Feather M4 CAN Express with ATSAME51
-  #### From Ebay
-    - 5pin JST-SM connector pair
+  - Adafruit DS3231 Precision RTC - STEMMA QT
+  - Adafruit Feather M4 CAN Express with ATSAME51
+#### From Ebay
+  - 5pin JST-SM connector pair
 
