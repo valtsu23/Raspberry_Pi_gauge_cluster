@@ -66,6 +66,18 @@ countdown = 10
 buffer_empty = True
 update = time.monotonic()
 
+# CONSTANTS
+CENTER_X, CENTER_Y = (width / 2, height / 2)
+RIGHT_SIDE = width - 180
+RED = (155, 0, 0)
+WHITE = (255, 255, 255)
+LIGHT_BLUE = (0, 128, 255)
+GREEN = (0, 255, 0)
+BLACK = (0, 0, 0)
+ECU_CAN_ID = 0x600
+FUEL_MAX = 197
+FUEL_MIN = 37
+
 def menu():
     screen.fill((60, 60, 60))
     font_20 = pygame.font.SysFont("dejavusans", 20)
@@ -193,19 +205,6 @@ def getCPUtemperature():
 
 # DSG mode dictionery
 dsg_mode_return = {0: "0", 2 : "P", 3 : "R", 4 : "N", 5 : "D", 6 : "S", 7 : "M", 15 : "Fault"}
-
-# CONSTANTS
-CENTER_X, CENTER_Y = (width / 2, height / 2)
-RIGHT_SIDE = width - 180
-RED = (155, 0, 0)
-YELLOW = (255, 255, 0)
-WHITE = (255, 255, 255)
-LIGHT_BLUE = (0, 128, 255)
-GREEN = (0, 255, 0)
-BLACK = (0, 0, 0)
-ECU_CAN_ID = 0x600
-FUEL_MAX = 197
-FUEL_MIN = 37
 
 # Fonts
 font_20 = pygame.font.SysFont("dejavusans", 20)
