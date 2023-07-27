@@ -67,9 +67,9 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
   - 1x40 female pin header
   - 1x40 male pin header
   - 0,22mm2 - 0,5mm2 wires (0,5mm2 recommended for power and ground)
-#### From Adafruit
+#### From www.adafruit.com
   - Adafruit DS3231 Precision RTC - STEMMA QT
   - Adafruit Feather M4 CAN Express with ATSAME51
-#### From Ebay
+#### From www.ebay.com
   - 5pin JST-SM connector pair
 
