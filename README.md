@@ -6,7 +6,7 @@ Video: https://youtu.be/ISC5q4k9wDg
 
 ### How it works
 Adafruit Feather receives messages from Can Bus and picks rpm signal for shift light. Feather sends same can bus data bytes over Uart to Raspberry pi. 
-Feather reads amount of ambient light from photodiode and controls screeen broghtness with pwm. 
+Feather reads the amount of ambient light from photodiode and controls screeen brightness with pwm. 
 Device needs switched 12V and continous 12v from battery to work correctly. Switched power wakes up the device and Raspberry pi starts booting. When Can Bus stream is lost Raspberry pi automatically starts shutdown process and sends message to Feather. After specified time the Feather turns off the relay connected to continous 12v and cuts power from the device. The device doesn't consume any power after shutdown. 
 
 ### Something to improve
