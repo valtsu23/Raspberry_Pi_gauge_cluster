@@ -18,6 +18,7 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
 
 ### Technical specs:
 - Raspberry Pi 4 Model B 4GB
+- SanDisk Extreme Pro UHS-I U3 64GB micro sd
 - 5" sunlight readable display with touchscreen from Makerplane:
   - https://store.makerplane.org/5-sunlight-readable-touchscreen-hdmi-display-for-raspberry-pi/
 - DIY PCB inside the enclosure controls power for all devices and receives Can Bus messages and sends them over UART to Raspberry pi
