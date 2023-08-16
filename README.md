@@ -18,7 +18,7 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
 
 ### Technical specs:
 - Raspberry Pi 4 Model B 4GB
-- SanDisk Extreme Pro UHS-I U3 64GB micro sd
+- SanDisk Extreme Pro UHS-I U3 64GB microSD
 - 5" sunlight readable display with touchscreen from Makerplane:
   - https://store.makerplane.org/5-sunlight-readable-touchscreen-hdmi-display-for-raspberry-pi/
 - DIY PCB inside the enclosure controls power for all devices and receives Can Bus messages and sends them over UART to Raspberry pi
@@ -42,13 +42,17 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
 ### Can bus data
 - Most of the data needed is read from Ecumaster Emu Black can stream
 - There is also DIY can bus device sending message id 0x400, which contains
-  - turn signals
-  - high beam
-  - fuel level
-  - ambient temperature
+  - Turn signals
+  - High beam on
+  - Fuel level
+  - Ambient temperature
 
-### Case (files are not ready to publish)
-- filament is PETG
+### Case
+- Filament is PETG
+- M4 thread insert 1 pcs
+- M4x8 machine screw 1pcs
+- M4x20 machine screw 2pcs
+- M4 nut 2pcs
 
 ![image1](/Pictures/Raspi_Feather.png)
 
@@ -76,3 +80,12 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
 #### From www.ebay.com
   - 5pin JST-SM connector pair
 
+![Image1](/Pictures/DSC_0969.JPG)
+
+![Image1](/Pictures/DSC_0965.JPG)
+
+![Image1](/Pictures/DSC_0927.JPG)
+
+![Image1](/Pictures/DSC_0938.JPG)
+
+![Image1](/Pictures/DSC_0955.JPG)
