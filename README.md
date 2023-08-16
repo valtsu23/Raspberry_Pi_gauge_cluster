@@ -14,7 +14,6 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
 - Adding Raspberry pi setup guide
 - Shortening the start up time (about 25 seconds now)
 - More pictures
-- Case needs better desing and I'll publish .stl and Freecad files after that
 
 ### Technical specs:
 - Raspberry Pi 4 Model B 4GB
@@ -48,7 +47,9 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
   - Ambient temperature
 
 ### Case
+- Designed with FreeCAD
 - Filament is PETG
+- M3x6 machine screws 2 pcs
 - M4 thread insert 1 pcs
 - M4x8 machine screw 1pcs
 - M4x20 machine screw 2pcs
