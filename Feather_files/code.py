@@ -10,7 +10,6 @@ import shift_light_v2
 from digitalio import DigitalInOut, Direction
 
 # Constants
-# MSG_START = b'\xff\xff\xff'
 MSG_START = b'\xff\xff'
 ECU_CAN_ID = 0x600
 
@@ -117,7 +116,7 @@ while True:
             counter += 1
         # Failsafe if message receiving failed
         fail_safe += 1
-        if counter > 15 or fail_safe > 30:
+        if counter > 15 or fail_safe > 60:
             print("Shutting down")
             relay.value = False
         continue
