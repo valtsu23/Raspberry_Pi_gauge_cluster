@@ -11,6 +11,7 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
 
 ### Something to improve
 - More testing needed
+- Display code still needs some optimizing
 - Adding Raspberry pi setup guide
 - Shortening the start up time (about 25 seconds now)
 
