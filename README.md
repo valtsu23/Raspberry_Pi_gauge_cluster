@@ -13,7 +13,6 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
 - More testing needed
 - Adding Raspberry pi setup guide
 - Shortening the start up time (about 25 seconds now)
-- More pictures
 
 ### Technical specs:
 - Raspberry Pi 4 Model B 4GB
