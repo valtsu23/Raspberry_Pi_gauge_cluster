@@ -55,11 +55,6 @@ relay = DigitalInOut(board.D6)
 relay.direction = Direction.OUTPUT
 relay.value = True
 
-# Variables
-old_bus_state = None
-fail_safe = 0
-counter = 0
-counter_start = False
 # CAN BUS
 # The CAN transceiver has a standby pin, bring it out of standby mode
 if hasattr(board, 'CAN_STANDBY'):
@@ -78,6 +73,10 @@ can = canio.CAN(rx=board.CAN_RX, tx=board.CAN_TX, baudrate=500_000, auto_restart
 listener = can.listen(matches=[canio.Match(id=0x607, mask=0x5F8)], timeout=.5)
 
 # Variables
+old_bus_state = None
+fail_safe = 0
+counter = 0
+counter_start = False
 old_dark = is_dark()
 dim_counter = 0
 t1 = time.monotonic()
