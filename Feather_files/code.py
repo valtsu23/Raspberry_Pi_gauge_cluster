@@ -116,13 +116,14 @@ while True:
             counter += 1
         # Failsafe if message receiving failed
         fail_safe += 1
-        if counter > 15 or fail_safe > 60:
+        if counter > 10 or fail_safe > 60:
             print("Shutting down")
             relay.value = False
         continue
 
     counter = 0
     fail_safe = 0
+    counter_start = False
 
     id = message.id
     data = message.data
