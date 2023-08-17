@@ -1,4 +1,4 @@
-# Raspberry_pi_gauge_cluster
+# Raspberry_Pi_gauge_cluster
 
 ![image1](/Pictures/IMG_20230724_183946.jpg)
 
