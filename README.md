@@ -67,7 +67,7 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
   - 2N3904 NPN transistor or similar
   - B3F-31XX Omron switch or SKH KKK 2 from partco.fi
   - 2k2 0,6w resistor
-  - 150k 0,6w resistor 
+  - 1M 0,6w resistor 
   - 2x13 male pin header with long pins (20mm total length)
   - 2x13 female smd pin header (soldered to display pcb)
   - 1x40 female pin header
