@@ -55,7 +55,7 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
 - M4x20 machine screw 2pcs
 - M4 nut 2pcs
 
-![image1](/Pictures/Raspi_Feather.png)
+![image1](/Pictures/Raspi_Feather2.png)
 
 ### Part list for PCB:
 #### From www.partco.fi
