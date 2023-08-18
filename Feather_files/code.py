@@ -29,7 +29,7 @@ ADC = analogio.AnalogIn(board.A1)
 def is_dark():
     a_val = ADC.value
     # print(a_val)
-    if a_val < 4000:
+    if a_val < 6000:
         return True
     else:
         return False
