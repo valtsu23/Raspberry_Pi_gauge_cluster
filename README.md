@@ -27,7 +27,7 @@ Device needs switched 12V and continous 12v from battery to work correctly. Swit
   - DC-DC converter
   - Adafruit Feather M4 CAN Express with ATSAME51
   - Adafruit DS3231 Precision RTC - STEMMA QT
-  - Screen brighness control
+  - Screen brightness control
   - Adafruit Neopixel shiftlight control
   - Small relay for power
 
