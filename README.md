@@ -1,4 +1,6 @@
 # Raspberry_Pi_gauge_cluster
+### Check out also new improved version: https://github.com/valtsu23/DIY-Emu-Black-Dash
+
 
 ![image1](/Pictures/IMG_20230724_183946.jpg)
 
